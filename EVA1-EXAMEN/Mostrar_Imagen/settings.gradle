@@ -1,0 +1,2 @@
+rootProject.name='Mostrar_Imagen'
+include ':app'
