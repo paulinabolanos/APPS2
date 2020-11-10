@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "298339609682",
+    "firebase_url": "https://passmanager-4e395.firebaseio.com",
+    "project_id": "passmanager-4e395",
+    "storage_bucket": "passmanager-4e395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298339609682:android:0e34aa98e2a629ce88838b",
+        "android_client_info": {
+          "package_name": "com.example.passmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298339609682-96b790elb6t6nfff3i2oc0749cmsqpbs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.passmanager",
+            "certificate_hash": "23e6e63699a8b130b5197a5ef78c36faa2a12076"
+          }
+        },
+        {
+          "client_id": "298339609682-6cf1d9tjap1hg8rmifb30f0ugqusinpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUwMIhit5iQpSAq3qwGZSe9wFn-_pOsIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298339609682-6cf1d9tjap1hg8rmifb30f0ugqusinpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
